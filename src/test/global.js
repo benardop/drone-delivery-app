@@ -1,5 +1,5 @@
 'use strict';
-let path = require('path');
+const path = require('path');
 
 let rootDir = path.join(__dirname, '../..');
 
