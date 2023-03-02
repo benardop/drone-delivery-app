@@ -42,6 +42,9 @@
     <li>JavaScript</li>
   </ul>
   <ul>
+    <li>Visual Studio Code</li>
+  </ul>
+  <ul>
     <li><a href="https://mochajs.org//">Mocha.js(Version: 10.2.0)</a></li>
   </ul>
   <ul>
