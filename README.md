@@ -166,6 +166,7 @@ If you like this project kindly give a start to this repository
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - I would like to thank [Velozient](https://www.velozient.com/)
+  for the opportunity to work on this challenge
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,8 +180,8 @@ If you like this project kindly give a start to this repository
    software for an online retailer.
 
 - **How do you describe this problem?**
-   - <a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem>
-     Travelling Salesman Problem
+   - <a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem">
+     This problem can be described as the Travelling Salesman Problem
    </a>
 - **Which algorithm did you use to solve the problem?**   
     - Finding Hamiltonian cycle of the graph.
