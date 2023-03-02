@@ -108,11 +108,6 @@ To run the project, execute the following command from the project root director
 ```sh
   npm start
 ```
-To run the tests, execute the following command from the project root directory:
-
-```sh
-  npm test
-```
 
 ###Given Input
 ```
@@ -135,6 +130,13 @@ Trip #1
 [Location #4 Name], [Location #7 Name]
 Trip #2
 [Location #5 Name], [Location #6 Name]
+```
+
+### Running Tests
+To run the tests, execute the following command from the project root directory:
+
+```sh
+  npm test
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
