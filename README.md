@@ -197,7 +197,7 @@ If you like this project kindly give a start to this repository
 - **Which algorithm did you use to solve the problem?**   
     - Finding Hamiltonian cycle of the graph.
 
-  - **What is the expected time complexity f this algorith used?**
+  - **What is the expected time complexity of this algorith used?**
     - O(n^2 * 2^n)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
