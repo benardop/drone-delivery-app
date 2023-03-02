@@ -113,16 +113,16 @@ To run the project, execute the following command from the root directory:
   npm start
 ```
 
-### Sample Input Values
-
+###Given Input
+```
 Line 1: [Drone #1 Name], [#1 Maximum Weight], [Drone #2 Name], [#2 Maximum Weight], etc.
 Line 2: [Location #1 Name], [Location #1 Package Weight]
 Line 3: [Location #2 Name], [Location #2 Package Weight]
 Line 4: [Location #3 Name], [Location #3 Package Weight]
 Etc.
-
-### Expeceted Sample Output
-
+```
+###Expected Output
+```
 [Drone #1 Name]
 Trip #1
 [Location #2 Name], [Location #3 Name]
@@ -134,7 +134,7 @@ Trip #1
 [Location #4 Name], [Location #7 Name]
 Trip #2
 [Location #5 Name], [Location #6 Name]
-
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
