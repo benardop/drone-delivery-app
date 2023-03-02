@@ -94,15 +94,16 @@ Example commands:
 
 ### Install
 
-Install this project with:
+Install this project dependencies with:
 
 ````
+cd drone-delivery-app
 npm install
 ````
 
 ### Usage
 
-To run the project, execute the following command from the root directory:
+To run the project, execute the following command from the project root directory:
 
 ```sh
   npm start
