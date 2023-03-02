@@ -38,21 +38,16 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
   <ul>
     <li>JavaScript</li>
   </ul>
-</details>
-<details>
   <ul>
     <li><a href="https://mochajs.org//">Mocha.js(Version: 10.2.0)</a></li>
   </ul>
-</details>
-<details>
   <ul>
     <li><a href="https://chaijs.org//">Chai.js(Version: 4.3.7)<a></li>
   </ul>
-</details>
+
 
 
 
