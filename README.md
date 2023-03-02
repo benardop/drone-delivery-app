@@ -70,14 +70,14 @@ To get a local copy up and running, follow these steps.
 ````
 git clone https://github.com/benardop/drone-delivery-app.git
 cd drone-delivery-app
-ls
+
 ````
 ### Prerequisites
 
 In order to run this project you need:
 
 - a terminal
-- Node.js
+- Node.js (Versio: ^ 18.12.1)
 
 ### Setup
 
