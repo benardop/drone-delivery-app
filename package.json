@@ -5,7 +5,7 @@
   "engines": {
     "node": ">=18.12.1"
   },
-  "main": "src/app/main.js",
+  "main": "src/app/mainFile.js",
   "author": "Benard Pacho",
   "license": "ISC",
   "repository": {
@@ -17,7 +17,7 @@
     "mocha": "^10.2.0"
   },
   "scripts": {
-    "start": "node ./src/app/main.js",
-    "test": "node_modules/.bin/mocha --require ./src/tests/globals.js --recursive ./src/tests/unit"
+    "start": "node ./src/app/mainFile.js",
+    "test": "mocha --require ./src/tests/globals.js --recursive ./src/tests/unit"
   }
 }
