@@ -108,6 +108,11 @@ To run the project, execute the following command from the project root director
 ```sh
   npm start
 ```
+To run the tests, execute the following command from the project root directory:
+
+```sh
+  npm test
+```
 
 ###Given Input
 ```
